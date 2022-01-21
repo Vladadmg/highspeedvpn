@@ -1,0 +1,67 @@
+﻿/* @font-face kit by Fonts2u (http://www.fonts2u.com) */
+@font-face
+{
+    font-family: "BandaRegular";
+    src: url("regular.eot?#iefix") format("eot"),url("regular.woff") format("woff"),url("regular.ttf") format("truetype"),url("regular.svg#BandaRegular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'open_sansregular';
+    src: url('opensans-regular-webfont.eot');
+    src: url('opensans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('opensans-regular-webfont.woff') format('woff'), url('opensans-regular-webfont.ttf') format('truetype'), url('opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'carrois_gothic_scregular';
+    src: url('carroisgothicsc-regular-webfont.eot');
+    src: url('carroisgothicsc-regular-webfont.eot?#iefix') format('embedded-opentype'), url('carroisgothicsc-regular-webfont.woff') format('woff'), url('carroisgothicsc-regular-webfont.ttf') format('truetype'), url('carroisgothicsc-regular-webfont.svg#carrois_gothic_scregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face
+{
+    font-family: 'SegoeUI';
+    src: url('segoeui.eot');
+    src: url('segoeui.eot?#iefix') format('embedded-opentype'), url('segoeui.woff') format('woff'), url('segoeui.ttf') format('truetype'), url('segoeui.svg#segoeui') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Tahoma';
+    src: url('tahoma.eot');
+    src: url('tahoma.eot?#iefix') format('embedded-opentype'), url('tahoma.woff') format('woff'), url('tahoma.ttf') format('truetype'), url('tahoma.svg#tahoma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'merriweather_sansbold';
+    src: url('merriweathersans-bold-webfont.eot');
+    src: url('merriweathersans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('merriweathersans-bold-webfont.woff') format('woff'),
+         url('merriweathersans-bold-webfont.ttf') format('truetype'),
+         url('merriweathersans-bold-webfont.svg#merriweather_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'merriweather_sansregular';
+    src: url('merriweathersans-regular-webfont.eot');
+    src: url('merriweathersans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('merriweathersans-regular-webfont.woff') format('woff'),
+         url('merriweathersans-regular-webfont.ttf') format('truetype'),
+         url('merriweathersans-regular-webfont.svg#merriweather_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
